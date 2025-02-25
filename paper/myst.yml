@@ -23,8 +23,8 @@ project:
   # license: CC-BY-4.0  # uncomment this and the line below if open access
   # open_access: true
   venue:
-    # title: JOURNAL NAME
-    # url: JOURNAL URL
+    title: Geophysical Prospecting
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2478.1989.tb02209.x
   history:
     received: 1988/02/01
     accepted: 1988/07/01
